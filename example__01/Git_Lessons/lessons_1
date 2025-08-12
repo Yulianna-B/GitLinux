@@ -1,0 +1,10 @@
+# clone this repo
+
+## In case of conflicts
+git pull 
+разрешайте конфликт выбирая нужный вариант Accept
+git add .
+git rebase --continue
+
+чтобы выйти из режима редактирования нужно ввести wq и нажать ентер 
+git push
